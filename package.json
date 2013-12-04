@@ -1,0 +1,26 @@
+{
+  "name": "borschik-tech-jsmap",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/narqo/borschik-tech-jsmap.git"
+  },
+  "keywords": [
+    "borschik",
+    "source-map"
+  ],
+  "author": "Vladimir Varankin <nek.narqo@gmail.com> (http://github.com/narqo)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/narqo/borschik-tech-jsmap/issues"
+  },
+  "dependencies": {
+    "source-map": "~0.1.31",
+    "inherit": "~2.1.0"
+  }
+}
